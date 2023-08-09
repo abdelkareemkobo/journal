@@ -1,2 +1,2 @@
 pip-tools
-django-4.2.1
+pre-commit 
