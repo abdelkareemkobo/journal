@@ -2,6 +2,7 @@
 journalism system with Django 
 * [ ] dependencies 
 * [ ] Django init 
+* [ ] Configuration via django-environement 
 * [ ] Configure Web Server 
 * [ ] testing configuration 
 * [ ] Continuous integration/ pre-commit  
@@ -11,6 +12,6 @@ journalism system with Django
 ### Setup 
 ```
 python3 -m venv venv
-pip install -requirements-dev.txt
+pip install -requirements-dev.txt -r requirements.txt
 ```
 
