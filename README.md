@@ -6,7 +6,7 @@ journalism system with Django
 * [ ] Configure Web Server 
 * [ ] testing / Coverage 
 * [ ] Continuous integration
-* [ ] pre-commit  
+* [x] pre-commit  
 * [ ] Django Modeling 
 * [ ] Heroku 
 
